@@ -23,10 +23,14 @@ Here are some ideas to get you started:
 
 My tech stack includes:
 
-Languages: JavaScript, HTML5, CSS3, TypeScript (learning)
-Libraries/Frameworks: Node.js, Express.js, Next.js
-Databases: PostgreSQL
-Tools: Git, Docker, Jest, Vite, Figma
+Languages: JavaScript, HTML5, CSS3, TypeScript (learning).
+
+Libraries/Frameworks: Node.js, Express.js, Next.js.
+
+Databases: PostgreSQL.
+
+Tools: Git, Docker, Jest, Vite, Figma.
+
 I'm constantly learning and building projects, including:
 
 - A movie rating platform focused on community-driven reviews and AI-powered recommendations.

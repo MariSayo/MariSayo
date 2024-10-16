@@ -1,5 +1,6 @@
 ## Hi there 👋
-![Header](./your-header-image-name.png)
+![Header](https://github.com/user-attachments/assets/d6ec9f42-b9d3-4d91-bdcd-b620aac84a80)
+
 <!--
 **MariSayo/MariSayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

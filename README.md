@@ -8,8 +8,6 @@ Here are some ideas to get you started:
 -->
 ![👋 Hi, I am Maria Gadkova😆🥳](https://github.com/user-attachments/assets/8807b7b2-99f8-4aa2-ad38-fa2174e5ab44)
 
-![Profile views](https://komarev.com/ghpvc/?username=MariSayo&label=Profile%20views&color=0e75b6&style=flat)
-
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
@@ -20,8 +18,6 @@ Here are some ideas to get you started:
   </ul>
 </div>
 
-**<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://www.linkedin.com/in/www.linkedin.com/in/maria-gadkova-a23643300" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="left">👋 Hi there! I'm a beginner developer passionate about creating impactful web applications with JavaScript. I'm currently focused on building scalable projects using frameworks like Next.js, while prioritizing accessibility and the importance of good UI/UX in every project. I find myself enjoying the wireframing experience.
 
@@ -63,3 +59,8 @@ Beyond coding, I'm interested in indie gaming, pestering Chatgpt for fun cooking
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=MariSayo&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
+![Profile views](https://komarev.com/ghpvc/?username=MariSayo&label=Profile%20views&color=0e75b6&style=flat)
+
+
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="https://www.linkedin.com/in/www.linkedin.com/in/maria-gadkova-a23643300" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>

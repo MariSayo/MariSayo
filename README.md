@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>
 
 
- <h4 align="left">👋 Hi there! I'm a beginner developer passionate about creating impactful web applications with JavaScript. I'm currently focused on building scalable projects using frameworks like Next.js, while prioritizing accessibility and the importance of good UI/UX in every project. I find myself enjoying the wireframing experience.
+ <h4 align="left">👋 Hi there! I'm a Junior developer passionate about creating impactful web applications with JavaScript. I'm currently focused on building scalable projects using frameworks like Next.js, while prioritizing accessibility and the importance of good UI/UX in every project. I find myself enjoying the wireframing experience.
 
 My tech stack includes:
 

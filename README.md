@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>
 
 
- **<h3 align="left">👋 Hi there! I'm a beginner developer passionate about creating impactful web applications with JavaScript. I'm currently focused on building scalable projects using frameworks like Next.js, while prioritizing accessibility and the importance of good UI/UX in every project. I find myself enjoying the wireframing experience.
+ **<h2 align="left">👋 Hi there! I'm a beginner developer passionate about creating impactful web applications with JavaScript. I'm currently focused on building scalable projects using frameworks like Next.js, while prioritizing accessibility and the importance of good UI/UX in every project. I find myself enjoying the wireframing experience.
 
 My tech stack includes:
 
@@ -36,7 +36,7 @@ I'm constantly learning and building projects, including:
 - A movie rating platform focused on community-driven reviews and AI-powered recommendations.
 - A Jeff Goldblum API.
 I recently participated in an AI hackathon where I explored using AI tools to accelerate development.
-Beyond coding, I'm interested in indie gaming, pestering Chatgpt for fun cooking recipes to make with left over food and watching disaster movies.. Feel free to check out my repositories and connect with me!</h3>**
+Beyond coding, I'm interested in indie gaming, pestering Chatgpt for fun cooking recipes to make with left over food and watching disaster movies.. Feel free to check out my repositories and connect with me!</h2>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
@@ -44,7 +44,7 @@ Beyond coding, I'm interested in indie gaming, pestering Chatgpt for fun cooking
 - 🌱 I'm currently learning: **How to make my own API's**
 - 🤔 I’m looking for help with: **discussion about what the greatest User needs currently are**
 - 💬 Ask me about: **The role and importance of the User in any software project**
-- ⚡ Fun fact: **Formerly worked as a Specialist Notetaker meaning accessibility is my focus.
+- ⚡ Fun fact: **Formerly worked as a Specialist Notetaker meaning accessibility is my focus**
 
  **<h3 align="left">Skills</h3>**
 

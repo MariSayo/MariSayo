@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>
 
 
- **<h2 align="left">👋 Hi there! I'm a beginner developer passionate about creating impactful web applications with JavaScript. I'm currently focused on building scalable projects using frameworks like Next.js, while prioritizing accessibility and the importance of good UI/UX in every project. I find myself enjoying the wireframing experience.
+ <h4 align="left">👋 Hi there! I'm a beginner developer passionate about creating impactful web applications with JavaScript. I'm currently focused on building scalable projects using frameworks like Next.js, while prioritizing accessibility and the importance of good UI/UX in every project. I find myself enjoying the wireframing experience.
 
 My tech stack includes:
 
@@ -36,7 +36,7 @@ I'm constantly learning and building projects, including:
 - A movie rating platform focused on community-driven reviews and AI-powered recommendations.
 - A Jeff Goldblum API.
 I recently participated in an AI hackathon where I explored using AI tools to accelerate development.
-Beyond coding, I'm interested in indie gaming, pestering Chatgpt for fun cooking recipes to make with left over food and watching disaster movies.. Feel free to check out my repositories and connect with me!</h2>**
+Beyond coding, I'm interested in indie gaming, pestering Chatgpt for fun cooking recipes to make with left over food and watching disaster movies.. Feel free to check out my repositories and connect with me!</h4>
 
 **<h3 align="left">Rapid Fire</h3>**
 
@@ -48,13 +48,7 @@ Beyond coding, I'm interested in indie gaming, pestering Chatgpt for fun cooking
 
  **<h3 align="left">Skills</h3>**
 
-<img src="https://skillicons.dev/icons?i=javascript" height="32" alt="JavaScript" style="margin-right: 4px"> 
-<img src="https://skillicons.dev/icons?i=postman" height="32" alt="Postman" style="margin-right: 4px"> 
-<img src="https://skillicons.dev/icons?i=figma" height="32" alt="Figma" style="margin-right: 4px"> 
-<img src="https://skillicons.dev/icons?i=vscode" height="32" alt="VSCode" style="margin-right: 4px"> 
-<img src="https://skillicons.dev/icons?i=react" height="32" alt="React" style="margin-right: 4px"> 
-<img src="https://skillicons.dev/icons?i=vite" height="32" alt="Vite" style="margin-right: 4px">
-<img src="https://skillicons.dev/icons?i=nodejs" height="32" alt="Node.js" style="margin-right: 4px"></div>
+<img src="https://skillicons.dev/icons?i=javascript" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=postman" height="32" alt="Postman" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=figma" height="32" alt="Figma" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=vscode" height="32" alt="VSCode" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=react" height="32" alt="React" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=vite" height="32" alt="Vite" style="margin-right: 4px"><img src="https://skillicons.dev/icons?i=nodejs" height="32" alt="Node.js" style="margin-right: 4px"></div>
 
  **<h3 align="left">GitHub Stats</h3>**
 

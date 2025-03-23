@@ -6,13 +6,13 @@
 Here are some ideas to get you started:
 
 -->
-![👋 Hi, I am Maria Gadkova😆🥳](https://github.com/user-attachments/assets/8807b7b2-99f8-4aa2-ad38-fa2174e5ab44)
+![👋 Hi, I am MariSayo😆🥳](https://github.com/user-attachments/assets/8807b7b2-99f8-4aa2-ad38-fa2174e5ab44)
 
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        👋 Hi, I am Maria Gadkova😆🥳
+        👋 Hi, I am MariSayo😆🥳
       </h1>
     </summary>
   </ul>
